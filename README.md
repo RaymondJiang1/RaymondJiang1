@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello, World! 😜 It's your usual asian idiot.
 
-<!--
-**RaymondJiang1/RaymondJiang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Currently Learning:
 
-Here are some ideas to get you started:
+* Nothing. I can't learn anything.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some things I use:
+
+* Typescript
+* Postgresql
+* Discord.js
+* MongoDB
+
+## Current projects:
+
+* [Easter-Boat](https://github.com/DGD/Easter-Boat): An Easter discord bot...?
+
+## Github Stats:
+![https://discord.gg/E3QxDXv75p](https://github-readme-stats.vercel.app/api?username=RaymondJiang1&show_icons=true&title_color=fff&icon_color=e56b6f&text_color=ecf8f8&bg_color=355070)
+
